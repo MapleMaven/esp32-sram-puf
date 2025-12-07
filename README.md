@@ -141,9 +141,6 @@ To clear stored data and restart enrollment:
 
 This project is for educational and research purposes.
 
-## Author
-
-BTP PUF Project
 
 ---
 
